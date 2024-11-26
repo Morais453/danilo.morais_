@@ -1,5 +1,5 @@
 body{
-    background-color: #1D1D1F;
+    background-color: black /*#1D1D1F*/;
     color: white;
 }
 h1{
@@ -10,4 +10,7 @@ h1{
 }
 a{
     color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
 }
