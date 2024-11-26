@@ -5,8 +5,9 @@ body{
 h1{
     font-size: 80px;
     font-family:    'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 
 }
 a{
-    font-size: 100px;
+    color: white;
 }
