@@ -55,3 +55,8 @@ a{
 #JOB{
     text-align: center;
 }
+@media (max-width: 400px) {
+    .img-bottom-right {
+        bottom: -50%;
+    }
+}
