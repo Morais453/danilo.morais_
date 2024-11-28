@@ -59,3 +59,14 @@ a{
         bottom: -10%;
     }
 }
+
+@media (max-width: 600px) {
+    .img-bottom-right {
+        bottom: -30%;
+    }
+}
+@media (max-width: 500px) {
+    .img-bottom-right {
+        bottom: -50%;
+    }
+}
